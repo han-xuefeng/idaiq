@@ -24,17 +24,7 @@ $controllerResolver = new ControllerResolver();
 $argumentResolver = new ArgumentResolver();
 
 $dispatcher = new EventDispatcher();
-//$dispatcher->addListener('response', function (ResponseEvent $event){
-//    $response = $event->getResponse();
-//    if ($response->isRedirection()
-//        || ($response->headers->has('Content-Type') && false === strpos($response->headers->get('Content-Type'), 'html'))
-//        || 'html' !== $event->getRequest()->getRequestFormat()
-//    ) {
-//        return;
-//    }
-//    $response->setContent($response->getContent().'GA CODE');
-//});
-
+//注册事迹
 $dispatcher->addListener('request', array(new GoogleListener(), 'onRequest'));
 $dispatcher->addListener('response', array(new GoogleListener(), 'onResponse'));
 
