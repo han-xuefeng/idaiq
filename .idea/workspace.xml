@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef070b83-547c-4f5a-ad7a-4f93eb0e9b02" name="Default Changelist" comment="" />
+    <list default="true" id="ef070b83-547c-4f5a-ad7a-4f93eb0e9b02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Framework.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Framework.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +64,7 @@
       <workItem from="1605063365321" duration="1018000" />
       <workItem from="1605064572575" duration="2059000" />
       <workItem from="1605089312891" duration="1545000" />
-      <workItem from="1605232210840" duration="3605000" />
+      <workItem from="1605232210840" duration="7299000" />
     </task>
     <servers />
   </component>
@@ -65,10 +72,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2701" y="240" key="NewPhpClassDialog" timestamp="1605235637587">
+    <state x="2506" y="198" key="#Inspections" timestamp="1605236990920">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2701" y="240" key="NewPhpClassDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605235637587" />
+    <state x="2506" y="198" key="#Inspections/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605236990920" />
+    <state x="2701" y="240" key="NewPhpClassDialog" timestamp="1605245717600">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2701" y="240" key="NewPhpClassDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605245717600" />
     <state x="2711" y="443" key="NewPhpFileDialog" timestamp="1605090519022">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
